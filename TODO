@@ -1,0 +1,11 @@
+
+1. Wiadomości usunięte nie usuwają się z bazy danych, a po usunięciu ręcznie pozostaje pusta linia w przeglądarce: http://10.22.221.56/zalkom/messages.php
+2. W liście Teams http://10.22.221.56/zalkom/teams.php przy okazji edycji listy przydałaby się możliwość dodawania/usuwania członków
+
+
+
+- Odświeżanie grup po przeładowaniu
+- IT widzi nieprzypisane users teams employees
+- warningi puste arraye
+- rozdzielić modale bo sie wykonują lub dodać ifa
+- api confirm (usuniie )po sprawdzeniu barcode i id
